@@ -1,0 +1,1 @@
+These are a few code snippets of some incomplete machine learning I was doing on datasets I no longer have. I am still learning how to fit the different models to real datasets. I like Keras for neural networks but scikitlearn syntax is standardized.
