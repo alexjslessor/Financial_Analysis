@@ -1,3 +1,5 @@
 This is an analysis of three of the largest public Cannabis companies in Canada, Canopy growth corp, Organigram and Aphria. These were the three companies I chose mostly becasue I own them but also because I was able to find acceptable historical data for a long enough time period. Some of the currently trading Cannabis companies have only been started or gone public within the last year which makes it difficult to get data.
 I will be doing some basic portfolio analysis on these companies using basic analysis methods. Most quantitative methodologies are mostly taken from the Chartered Financial Analyst curriculum and simply applied to original data using python.
 I will begin with calculating the respective returns so that a sharpe ratio can be calculated.
+
+Also we will be using a risk free rate of 0, becasue there are no 'risk free' investable assets that give a return higher than inflation.
